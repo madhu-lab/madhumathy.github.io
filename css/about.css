@@ -117,6 +117,7 @@ body{
 
 @media (max-width: 950px) {
   .container{
+  margin-top: 300px;
     width: 90%;
     padding: 30px 40px 40px 35px ;
   }
@@ -127,6 +128,8 @@ body{
 }
 @media (max-width: 820px) {
   .container{
+  margin-top: 300px;
+
     margin: 40px 0;
     height: 100%;
   }
